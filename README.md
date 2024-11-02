@@ -26,6 +26,6 @@ This Weather App provides real-time weather information for cities worldwide, fe
    
 ![Weather App Screenshot](weather_finder/assets/kozhikode.png)
 
-![Weather App Screenshot](weather_finder/assets/ooty sample.png)
+![Weather App Screenshot](weather_finder/assets/ootysample.png)
 
 ![Weather App Screenshot](weather_finder/assets/delhi.png)
