@@ -2,7 +2,7 @@
 
 This Weather App provides real-time weather information for cities worldwide, featuring a dynamic city background image based on your search query. With a simple, intuitive interface, this app is perfect for quickly checking the weather while enjoying a scenic background that updates with each city search.
 
-![Weather App Screenshot](weather_finder/weatherapp.jpeg)
+![Weather App Screenshot](weather_finder/assets/weatherapp.jpeg)
 
 ## Features
 - **Real-time Weather Data**: Displays the latest weather conditions for any city.
@@ -22,3 +22,10 @@ This Weather App provides real-time weather information for cities worldwide, fe
 1. Clone the repository:
    ```bash
    git clone https://github.com/Uvaisbugh/Weather-app.git
+
+   
+![Weather App Screenshot](weather_finder/assets/kozhikode.png)
+
+![Weather App Screenshot](weather_finder/assets/ooty sample.png)
+
+![Weather App Screenshot](weather_finder/assets/delhi.png)
