@@ -2,7 +2,7 @@
 
 This Weather App provides real-time weather information for cities worldwide, featuring a dynamic city background image based on your search query. With a simple, intuitive interface, this app is perfect for quickly checking the weather while enjoying a scenic background that updates with each city search.
 
-![Weather App Screenshot](assets/weather-app-screenshot.png)
+![Weather App Screenshot](weather_finder/weatherapp.jpeg)
 
 ## Features
 - **Real-time Weather Data**: Displays the latest weather conditions for any city.
