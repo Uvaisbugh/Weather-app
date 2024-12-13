@@ -14,7 +14,7 @@ def home(request):
     PARAMS = {'units': 'metric'}
     
     # Google Custom Search API details for city image
-    API_KEY = 'AIzaSyCqs59IeNdZdE17HawG8W6URwy1LtTo368'
+    API_KEY = 'Key'
     SEARCH_ENGINE_ID = 'e33dea6e7829f4869'
     query = city + " 1920x1080"
     search_type = 'image'
